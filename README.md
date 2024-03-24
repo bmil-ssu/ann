@@ -18,13 +18,13 @@
 - 다음 링크를 통해 아나콘다 설치 진행
 - https://www.anaconda.com/download#Downloads
 
-### 2.NVIDIA DRIVER 설치
+### NVIDIA DRIVER 설치
 - cmd 창에서 nvidia-smi 명령 실행 후, 아래와 같이 출력되면 nvidia 드라이버 잘 설치 되어 있는 것
 - ![img_15.png](img/img_15.png)
 - 없다면 다음 링크를 통해 컴퓨터 환경에 맞는 NVIDIA 드라이버를 설치한다.
 - https://www.nvidia.com/download/index.aspx?lang=en-us
 
-### Cuda 이전버전(12.0) 삭제
+### Cuda 이전버전 삭제-(11.2 version 설치 되어있는 경우 건너뛰기)
 1. [프로그램 추가/제거] 들어가서 아래 NVIDIA에 관련된 프로그램을 모두 지우기 
    - **NVIDA Control Panel, 그래픽 드라이버는 남겨두기** 
    - 두 경로의 내부 NVIDIA 관련 파일 모두 삭제
