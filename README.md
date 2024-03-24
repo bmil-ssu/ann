@@ -27,6 +27,7 @@
 ### Cuda 이전버전 삭제-(11.2 version 설치 되어있는 경우 건너뛰기)
 1. [프로그램 추가/제거] 들어가서 아래 NVIDIA에 관련된 프로그램을 모두 지우기 
    - **NVIDA Control Panel, 그래픽 드라이버는 남겨두기** 
+   - ![img.png](img/img30.png)
    - 두 경로의 내부 NVIDIA 관련 파일 모두 삭제
    'C:/Program Files'
    'C:/Program Files(x86)'
