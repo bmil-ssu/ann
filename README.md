@@ -7,8 +7,10 @@
 ## 1. CoLab 활용 방법
 1. 다음 링크로 구글 CoLab 접속 (https://colab.research.google.com/)
 2. 새로운 Jupyter notebook 파일 생성 또는 컴퓨터에 저장된 Jupyter notebook 파일 업로드
-3. 각 cell 실행
-4. 저장하기: File -> download .jpynb -> save the file
+3. [런타임]-->[런타임 유형 변경]-->T4 GPU 선택
+   ![img.png](img/img31.png)
+4. 각 cell 실행
+5. 저장하기: File -> download .jpynb -> save the file
 
 ---
 ## 2. GPU 워크스테이션 활용 방법(조만식 447호 실습실 기준 작성)
