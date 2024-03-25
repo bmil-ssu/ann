@@ -1,5 +1,5 @@
-# ann
-숭실대 전자정보공학부 IT융합전공 인공신경망 수업
+# Artificial Neural Network
+숭실대 전자정보공학부 IT융합전공 인공신경망 수업 (권민혜 교수 지도, 박희원 조교)
 
 # 2024 ANN Tool Installation Guide
 
