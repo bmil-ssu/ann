@@ -59,7 +59,7 @@
    - 위 4개 파일 복사하여 CUDA Toolkit 폴더에 붙여넣기
    - 경로: 로컬 디스크(C:)\ Program Files\ NVIDIA GPU Computing Toolkit\ CUDA\ v11.2
    - ![img_7.png](img/img_7.png)
-5. 폴더 옮기기
+5. 환경변수 추가하기
    - [설정]-[시스템]-[정보]-[고급 시스템 설정] 순으로 클릭
    - ![img_9.png](img/img_9.png)
    - [고급]-[환경 변수] 로 이동
