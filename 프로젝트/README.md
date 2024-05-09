@@ -18,7 +18,7 @@ MNIST extended dataset을 이용하여 직접 설계한 CNN 또는 pretrained CN
 1. MNIST extended dataset을 분석하고 LeNet-5와 ResNet-50를 이용하여 학습하고
 결과를 비교한다. (baseline) Hyperparameter 변경을 통해 최적의 학습 결과를 얻는
 다. (baseline은 연구에서 새로운 모델이나 방법의 성능을 객관적으로 평가하기 위한 기준점으로 사용되는 모델이나 알고리즘을 뜻함)
-2. Accuracy와 학습시간, 추론시간을 고려하여 직접 설계한 네트워크와 Keras의 pretrained model을 이용한 CNN 모델을 선정하고 학습하여 결과를 분석한다. 이때
+2. Accuracy와 학습시간, 추론시간을 고려하여 직접 설계한 네트워크와 Keras의 pretrained model을 이용한 CNN 모델 등을 선정하고 학습하여 결과를 분석한다. 이때
 CNN 모델 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
 
 **수행 과정**
