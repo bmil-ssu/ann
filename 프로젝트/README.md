@@ -55,6 +55,7 @@ pdf와 ipynb로 제출 (팀당 1개씩).
  
     
 ### 프로젝트 중간발표 (5/22 수업시간 12시-1시15분)
+- 중간 발표 평가표 [docx](https://docs.google.com/document/d/1anv5uoNqtJ2-patJXdBQWcQQ8BEJgy_8/edit?usp=sharing&ouid=115503760206568696644&rtpof=true&sd=true)
 - 12시까지 쉬는시간에 발표자료 교수석 컴퓨터에 넣어놓을 것 (혹은 개인 랩탑 연걸 테스트 할것) 팀별 transition time이 길면 발표 시간에서 그만큼 제할 예정.
 - 팀당 6분발표 (시간 엄수)
 - 발표자 명수 (1명 발표 or 2명이상 나눠 발표) 자율 결정
@@ -66,6 +67,7 @@ pdf와 ipynb로 제출 (팀당 1개씩).
   
 
 ### 프로젝트 최종발표 (6/12 6-9PM)
+- 최종 발표 평가표 [docx](https://docs.google.com/document/d/1FTBtO1bFmX3YIooC_0n1sPn5Xskd1-zr/edit?usp=sharing&ouid=115503760206568696644&rtpof=true&sd=true)
 - 6시까지 발표자료 교수석 컴퓨터에 넣어놓을 것 (혹은 개인 랩탑 연걸 테스트 할것) 팀별 transition time이 길면 발표 시간에서 그만큼 제할 예정.
 - 팀당 13분발표 (시간 엄수)
 - 발표자 명수 (1명 발표 or 2명이상 나눠 발표) 자율 결정
